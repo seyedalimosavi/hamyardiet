@@ -1,0 +1,334 @@
+[
+  {
+    "code": "EXT001",
+    "slot_type": "b",
+    "name": "نان و پنیر کم‌نمک با خیار",
+    "base_calories": 200,
+    "ingredients_desc": "۴۰ گرم نان سنگک + ۳۰ گرم پنیر کم‌نمک + ۱۰۰ گرم خیار",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "gen",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_LOW_SALT",
+      "POS_BALANCED"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "renal",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT002",
+    "slot_type": "b",
+    "name": "صبحانه سفیده با نان و کاهو",
+    "base_calories": 165,
+    "ingredients_desc": "۳ عدد سفیده تخم‌مرغ آب‌پز + ۴۰ گرم نان سنگک + ۵۰ گرم کاهو",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "gen",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_HIGH_PROTEIN",
+      "POS_LOW_SALT"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "renal",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT003",
+    "slot_type": "b",
+    "name": "فرنی برنج و شیر ساده",
+    "base_calories": 175,
+    "ingredients_desc": "۲۰ گرم آرد برنج + ۲۰۰ میلی‌لیتر شیر کم‌چرب + دارچین",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "gen",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_BALANCED"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "renal",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT004",
+    "slot_type": "b",
+    "name": "نان و تخم‌مرغ آب‌پز",
+    "base_calories": 190,
+    "ingredients_desc": "۴۰ گرم نان سنگک + ۱ عدد تخم‌مرغ آب‌پز + ۱۰۰ گرم خیار",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "gen",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_HIGH_PROTEIN",
+      "POS_BALANCED"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "athlete",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT005",
+    "slot_type": "s",
+    "name": "گلابی و ماست ساده",
+    "base_calories": 145,
+    "ingredients_desc": "۱۵۰ گرم گلابی + ۱۰۰ گرم ماست کم‌چرب",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "gen",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_BALANCED"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "renal",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT006",
+    "slot_type": "s",
+    "name": "انگور و نان",
+    "base_calories": 120,
+    "ingredients_desc": "۱۰۰ گرم انگور + ۲۰ گرم نان سنگک",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "gen",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_BALANCED"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "renal",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT007",
+    "slot_type": "s",
+    "name": "نان و پنیر کم‌نمک و سیب",
+    "base_calories": 185,
+    "ingredients_desc": "۲۰ گرم نان سنگک + ۲۰ گرم پنیر کم‌نمک + ۱۵۰ گرم سیب",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "gen",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_BALANCED"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "renal",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT008",
+    "slot_type": "s",
+    "name": "ماست ساده با موز",
+    "base_calories": 180,
+    "ingredients_desc": "۱۵۰ گرم ماست کم‌چرب + ۱۰۰ گرم موز",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "gen",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_BALANCED",
+      "POS_GAIN"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "athlete",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT009",
+    "slot_type": "l",
+    "name": "مرغ و برنج با کدو",
+    "base_calories": 370,
+    "ingredients_desc": "۷۰ گرم سینه مرغ پخته + ۱۵۰ گرم برنج پخته + ۱۰۰ گرم کدو پخته + ۱ ق‌چ روغن مایع",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "pot",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_LOW_SALT",
+      "POS_BALANCED"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "renal",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT010",
+    "slot_type": "l",
+    "name": "ماهی و برنج با کلم",
+    "base_calories": 365,
+    "ingredients_desc": "۸۰ گرم ماهی پخته + ۱۵۰ گرم برنج پخته + ۷۰ گرم کلم پخته + ۱ ق‌چ روغن مایع",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "pot",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_LOW_SALT",
+      "POS_BALANCED"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "renal",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT011",
+    "slot_type": "l",
+    "name": "خوراک مرغ و پاستا",
+    "base_calories": 485,
+    "ingredients_desc": "۱۰۰ گرم سینه مرغ پخته + ۱۵۰ گرم پاستا پخته + ۱۰۰ گرم هویج پخته + ۱ ق‌چ روغن مایع",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "pot",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_HIGH_PROTEIN",
+      "POS_GAIN"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "athlete",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT012",
+    "slot_type": "l",
+    "name": "برنج و بوقلمون و هویج",
+    "base_calories": 455,
+    "ingredients_desc": "۱۰۰ گرم بوقلمون پخته + ۱۸۰ گرم برنج پخته + ۱۰۰ گرم هویج پخته + ۱ ق‌چ روغن مایع",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "pot",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_HIGH_PROTEIN",
+      "POS_GAIN"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "athlete",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT013",
+    "slot_type": "d",
+    "name": "خوراک کدو و تخم‌مرغ با نان",
+    "base_calories": 250,
+    "ingredients_desc": "۱ عدد تخم‌مرغ آب‌پز + ۱۵۰ گرم کدو پخته + ۴۰ گرم نان سنگک + ۱ ق‌چ روغن مایع",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "pot",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_LOW_SALT",
+      "POS_BALANCED"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "renal",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT014",
+    "slot_type": "d",
+    "name": "مرغ و نان با کلم",
+    "base_calories": 285,
+    "ingredients_desc": "۷۰ گرم سینه مرغ پخته + ۴۰ گرم نان سنگک + ۱۰۰ گرم کلم پخته + ۱ ق‌چ روغن مایع",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "pot",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_LOW_SALT",
+      "POS_BALANCED"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "renal",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT015",
+    "slot_type": "d",
+    "name": "املت کم‌روغن و نان",
+    "base_calories": 330,
+    "ingredients_desc": "۲ عدد تخم‌مرغ + ۱۰۰ گرم گوجه + ۵۰ گرم نان سنگک + ۱ ق‌چ روغن مایع",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "grill",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_HIGH_PROTEIN",
+      "POS_BALANCED"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "athlete",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  },
+  {
+    "code": "EXT016",
+    "slot_type": "d",
+    "name": "ماهی و سیب‌زمینی تنوری",
+    "base_calories": 360,
+    "ingredients_desc": "۱۲۰ گرم ماهی پخته + ۲۰۰ گرم سیب‌زمینی پخته + ۱ ق‌چ روغن مایع",
+    "oil_note_embedded": null,
+    "structured_components": [],
+    "cook_kind": "grill",
+    "grain_exchange": null,
+    "pos_tags": [
+      "POS_HIGH_PROTEIN",
+      "POS_GAIN"
+    ],
+    "neg_tags": [],
+    "is_popular": false,
+    "is_quick": false,
+    "fixed_portion": true,
+    "focus": "athlete",
+    "calorie_note_fa": "کالری تقریبی سهم ثابت؛ وابسته به نوع و پخت، نیازمند بازبینی کارشناس"
+  }
+]

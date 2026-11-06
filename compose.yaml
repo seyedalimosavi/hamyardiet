@@ -1,0 +1,15 @@
+services:
+  app:
+    build: .
+    environment:
+      NEXT_TELEMETRY_DISABLED: "1"
+      SQLITE_DB_PATH: /app/dietdata/diet.sqlite
+      # Local synthetic-data demo only. NEVER expose this setting to the internet.
+      ALLOW_UNSAFE_DEMO: "true"
+    ports:
+      - "127.0.0.1:3000:3000"
+    volumes:
+      - diet_database:/app/dietdata
+    restart: unless-stopped
+volumes:
+  diet_database:
